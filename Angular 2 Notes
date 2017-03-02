@@ -1,0 +1,5 @@
+
+
+Url: http://stackoverflow.com/questions/39631594/angular-2-is-it-possible-to-access-template-reference-variables-from-the-compo
+
+ViewChild is the way to get ElementRef from template to class.
